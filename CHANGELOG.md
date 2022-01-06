@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/liyunnane/test-git/compare/v1.1.1...v1.2.0) (2022-01-06)
+
+
+### Features
+
+* 打tag ([a2edd7a](https://github.com/liyunnane/test-git/commit/a2edd7ae614dfc6e18a062185001dab222e77e65))
+
 ### [1.1.1](https://github.com/liyunnane/test-git/compare/v1.1.0...v1.1.1) (2022-01-06)
 
 ## [1.1.0](https://github.com/liyunnane/test-git/compare/v1.0.7...v1.1.0) (2022-01-06)
